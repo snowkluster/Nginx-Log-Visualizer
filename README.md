@@ -6,7 +6,9 @@ A visualizations website that can be used by analyst to better understand log fi
 
 Since the application is uses docker just execute the following command in your terminal
 
-`bash setup.sh` 
+```sh
+bash setup.sh
+``` 
 
 OR
 
